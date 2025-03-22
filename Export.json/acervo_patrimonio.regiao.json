@@ -1,0 +1,37 @@
+[{
+  "_id": "r1",
+  "nome": "Litoral",
+  "uf": [
+    "PB"
+  ]
+},
+{
+  "_id": "r2",
+  "nome": "Agreste",
+  "uf": [
+    "PB",
+    "AL"
+  ]
+},
+{
+  "_id": "r3",
+  "nome": "Sertao",
+  "uf": [
+    "PB",
+    "CE"
+  ]
+},
+{
+  "_id": "r4",
+  "nome": "Chapada Diamantina",
+  "uf": [
+    "BA"
+  ]
+},
+{
+  "_id": "r5",
+  "nome": "Zona da Mata",
+  "uf": [
+    "PE"
+  ]
+}]
